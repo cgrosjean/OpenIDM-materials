@@ -1,6 +1,6 @@
 # OpenIDM-materials
 
-The couple of certification workflows below were initially written for OpenIDM 3.1. They're provided here for OpenIDM 4.0.
+The couple of certification workflows below were initially bundled with OpenIDM 3.1. They're provided here for OpenIDM 4.0.
 
 - The entitlements certification workflow enables the systemadmin user to validate or change the assignments (attribute values only) defined in OpenIDM.
 
